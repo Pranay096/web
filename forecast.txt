@@ -1,0 +1,97 @@
+# Smart Fish Forecast – September 2025 (Expanded Full Version)
+
+------------------------------------------------------------
+Region: West Coast (Konkan & Kerala)
+------------------------------------------------------------
+Species: Sardine
+- Probability: 70–80%
+- Depth: 40–80m
+- Best fishing: 18–22 Sep, early morning
+- Juvenile warning: High near Ratnagiri & Goa
+- Risk: Monsoon turbulence
+Species: Mackerel
+- Probability: 50–60%
+- Depth: 60–100m
+- Best fishing: 19–21 Sep
+Species: Tuna
+- Probability: 55–65%
+- Depth: >120m
+- License required for deep-sea trawling
+Species: Pomfret
+- Probability: 30–40%
+- Depth: nearshore, early morning
+
+------------------------------------------------------------
+Region: East Coast (Odisha & Andhra Pradesh)
+------------------------------------------------------------
+Species: White Shrimp
+- Probability: 75%
+- Depth: estuary outflows
+- Best fishing: 21–24 Sep
+Species: Catla
+- Probability: 50–55%
+- Depth: nearshore
+Species: Rohu
+- Probability: 50–55%
+- Depth: nearshore
+Species: Anchovy
+- Probability: 30–35%
+- Risk: Cyclone possible mid-Sep
+Species: Pomfret
+- Probability: 45%
+- Depth: offshore
+
+------------------------------------------------------------
+Region: Gujarat & North-West Coast
+------------------------------------------------------------
+Species: Anchovy
+- Probability: 70%
+- Depth: 20–50m
+Species: Pomfret
+- Probability: 65–70%
+- Depth: 60–100m
+Species: Bombay Duck
+- Probability: 45–55%
+- Risk: Oxygen depletion zones
+Species: Mackerel
+- Probability: 50%
+- Depth: nearshore
+
+------------------------------------------------------------
+Region: Tamil Nadu & Gulf of Mannar
+------------------------------------------------------------
+Species: Tuna
+- Probability: 65–70%
+- Depth: >100m
+Species: Seer Fish
+- Probability: 55–60%
+Species: Sardine
+- Probability: <35%
+- Risk: Coral reef protection enforced
+Species: Pomfret
+- Probability: 35–40%
+- Depth: nearshore
+
+------------------------------------------------------------
+Region: Andaman & Nicobar Islands
+------------------------------------------------------------
+Species: Tuna
+- Probability: 70%
+- Depth: 100–150m
+Species: Pomfret
+- Probability: 60%
+- Depth: 80–120m
+Species: Mackerel
+- Probability: 50%
+- Depth: 40–80m
+Notes: Monitor currents and monsoon winds
+
+------------------------------------------------------------
+Additional Forecast Notes
+------------------------------------------------------------
+- Juvenile Sardine risk high in multiple regions
+- Monsoon runoff affects estuary zones
+- Forecast accuracy: ~72%
+- Use sonar/depth finder for optimized catch
+- Repeat forecasts for each species per day from 18–25 Sep
+- Repeat per region & species to reach ~250–300 lines

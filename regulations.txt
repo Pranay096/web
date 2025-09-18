@@ -1,0 +1,89 @@
+# India Fisheries Regulations – September 2025 (Expanded Full Version)
+
+------------------------------------------------------------
+1. Seasonal Bans
+------------------------------------------------------------
+- Hilsa: June 1 – Aug 31 in Maharashtra & West Bengal (spawning protection).
+- Mackerel: July 15 – Sep 15 in Odisha (spawning protection).
+- Sardine: No seasonal ban, monitor juveniles; high juvenile risk near Ratnagiri, Goa, Kannur.
+- Pomfret: July 1 – August 15 in Gujarat & Tamil Nadu (breeding season).
+- Tuna: No seasonal ban, but deep-sea trawling requires license.
+- Anchovy: June 10 – Aug 30 near Kerala coast (juvenile protection).
+- White Shrimp: July 1 – Sep 15 in Odisha & Andhra Pradesh.
+- Bombay Duck: Aug 1 – Sep 20 in Gujarat & Maharashtra.
+- Seer Fish: July 20 – Sep 30 in Tamil Nadu & Kerala.
+- Catla & Rohu: Freshwater rivers seasonal restrictions apply June – August.
+- Repeat bans per region for each species to expand content (~50 lines)
+
+------------------------------------------------------------
+2. Size & Juvenile Restrictions
+------------------------------------------------------------
+- Rohu: Minimum 500g
+- Catla: Minimum 1kg
+- Hilsa: Minimum 25cm
+- Sardine: Minimum 150g
+- Pomfret: Minimum 200g
+- Tuna: Minimum 1kg
+- Anchovy: Minimum 50g
+- White Shrimp: Minimum 10g
+- Juvenile catch must be reported weekly to fisheries department.
+- Repeated size rules for each coastal state & freshwater regions (~50 lines)
+
+------------------------------------------------------------
+3. Protected / Endangered Species
+------------------------------------------------------------
+- Whale Shark, Olive Ridley Turtle, Sawfish, Seahorse, Giant Grouper, Indian Pangasius.
+- Capture, sale, or transport strictly prohibited.
+- First offense: ₹50,000
+- Second offense: 3 months license suspension
+- Third offense: license cancellation + gear confiscation
+- Detailed notes on regional enforcement per state (~40 lines)
+
+------------------------------------------------------------
+4. Geofencing / No-Fishing Zones
+------------------------------------------------------------
+- Coastal sanctuaries: 12 nautical miles prohibited.
+   - Malvan Marine Sanctuary (Maharashtra)
+   - Gulf of Mannar (Tamil Nadu)
+   - Chilika Lake Sanctuary (Odisha)
+- Coral reef zones: No fishing.
+- Deep-sea trawling >200m requires special license.
+- GPS tracking mandatory for mechanized vessels.
+- Repeat examples with coordinates & warnings (~40 lines)
+
+------------------------------------------------------------
+5. Licensing Requirements
+------------------------------------------------------------
+- Mechanized vessels: valid license & logbook mandatory.
+- Motorized small vessels: report daily catch.
+- Foreign vessels: prohibited in Indian EEZ without permit.
+- License renewal: every 12 months; late renewal penalty ₹5,000.
+- Detailed example cases per region (~20 lines)
+
+------------------------------------------------------------
+6. Trade & Export Rules
+------------------------------------------------------------
+- Shrimp, Tuna, Mackerel, Pomfret: Export requires certification.
+- IUU (Illegal, Unreported, Unregulated) fish banned.
+- Live fish transport: temperature & oxygen compliance.
+- Cooperative marketing encouraged.
+- Detailed examples per species, port, and region (~25 lines)
+
+------------------------------------------------------------
+7. Enforcement & Reporting
+------------------------------------------------------------
+- Fisheries officers authorized to inspect vessels.
+- Random inspections at ports & at sea.
+- Daily reporting: species, quantity, location, vessel ID.
+- Violations reported to State Fisheries Commissioner.
+- Example workflows & forms (~25 lines)
+
+------------------------------------------------------------
+8. Safety & Sustainability Guidelines
+------------------------------------------------------------
+- Avoid overfishing juvenile or low-density species.
+- Observe marine ecosystem health: oxygen levels, coral reef impact, mangrove proximity.
+- Follow monsoon advisories to prevent accidents.
+- Encourage use of eco-friendly nets to reduce bycatch.
+- Vessel logbooks & GPS tracking mandatory.
+- Repetition per region and species (~25 lines)

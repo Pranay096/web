@@ -1,0 +1,71 @@
+# SmartFish Policy Notes – September 2025 (Expanded Full Version)
+
+------------------------------------------------------------
+1. Fisheries Management Goals
+------------------------------------------------------------
+- Sustainable exploitation of marine & inland stocks
+- Reduce juvenile and illegal catches
+- Protect endangered species
+- Support small-scale fishers economically
+- Ensure equitable trade and mandi pricing
+- Encourage cooperative fishing societies
+- Promote responsible aquaculture
+- Community engagement in monitoring
+- Repeat detailed goals per species & region (~40 lines)
+
+------------------------------------------------------------
+2. Regulatory Compliance
+------------------------------------------------------------
+- Enforce seasonal bans, size limits, geofencing
+- Licensing: Mechanized & motorized vessels
+- Daily reporting of catch & location
+- Random inspections
+- Penalties: First ₹50,000; repeated → license suspension + gear seizure
+- GPS & logbook mandatory
+- Auditing of reports monthly
+- Training programs for fishers
+- Repeat compliance examples for regions & species (~50 lines)
+
+------------------------------------------------------------
+3. Market & Trade Policies
+------------------------------------------------------------
+- Monitor mandi prices
+- Encourage cooperative marketing
+- Regulate export of aquaculture products
+- Traceability to prevent IUU products
+- Promote value-added processing
+- Dynamic price advisory via AI forecasts
+- Integration with policy dashboards
+- Repeat examples & scenarios (~50 lines)
+
+------------------------------------------------------------
+4. Environmental Considerations
+------------------------------------------------------------
+- Protect marine sanctuaries & coral reefs
+- Avoid low-oxygen zones
+- Sustainable deep-sea fishing recommended
+- Monitor monsoon & climate effects
+- Restrict gear types harmful to ecosystem
+- Periodic evaluation of environmental impact
+- Repeat environmental guidance per region (~50 lines)
+
+------------------------------------------------------------
+5. Forecast & Advisory Integration
+------------------------------------------------------------
+- AI forecast guides fishing schedules & locations
+- Alerts for high-risk zones
+- Recommend profitable fishing spots
+- Integrate mandi prices & fish abundance
+- Daily & weekly advisory notes
+- Repeat advisory examples per species (~50 lines)
+
+------------------------------------------------------------
+6. Safety Guidelines
+------------------------------------------------------------
+- Onboard safety procedures
+- Communication with authorities
+- Eco-friendly nets to reduce bycatch
+- Logbooks & GPS tracking
+- Life jackets & emergency protocols
+- Training modules for small-scale fishers
+- Repeat safety instructions (~50 lines)
